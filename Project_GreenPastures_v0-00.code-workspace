@@ -2,6 +2,9 @@
     "folders": [
         {
             "path": "."
+        },
+        {
+            "path": "..\\..\\Comunicator_v000"
         }
     ]
 }
