@@ -2,9 +2,6 @@
 // program: Mehatronika
 // leto projekta: 2021
 //
-
-//Test Git aowihdapčohujčgerd
-
 // Preko vmesnika na osebnem računalniku pošiljamo po serijski povezavi naše vnose na
 // tipkovnico, v lastno izdelanem formatu. Mikrokrmilnik te podatke pretvori v
 // številke od 0 do 11. Te številke nam služijo kot kazalec v tabeli. Tam so vpisani
