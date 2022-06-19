@@ -3,7 +3,7 @@
 // leto projekta: 2021
 //
 
-//Test Git
+//Test Git aowihdapčohujčgerd
 
 // Preko vmesnika na osebnem računalniku pošiljamo po serijski povezavi naše vnose na
 // tipkovnico, v lastno izdelanem formatu. Mikrokrmilnik te podatke pretvori v
